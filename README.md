@@ -1,8 +1,9 @@
 Attention
 =========
 
-Libcuckoo-c was abandoned by the original authors in favour of a c++ implementation and deleted the contents of the repo.
-I'm assuming this was done so they wouldn't be bothered with questions or pull requests, so pleas keep that in mind.
+Libcuckoo-c was abandoned by the original authors in favour of a c++ implementation. I've forked a copy since they deleted 
+the contents of the original repo. I'm assuming this was done so they wouldn't be bothered with questions or pull requests, 
+so please keep that in mind.
 
 
 libcuckoo
